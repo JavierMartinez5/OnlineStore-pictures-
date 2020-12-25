@@ -1,0 +1,45 @@
+{
+    "styles": [
+        {
+            "src": "assets/img/styles-5.jpg",
+            "title": "Пастелью",
+            "link": "#pastel"
+        },
+        {
+            "src": "assets/img/styles-6.jpg",
+            "title": "Поп-арт",
+            "link": "#popart"
+        },
+        {
+            "src": "assets/img/styles-7.png",
+            "title": "Фотомозаика",
+            "link": "#mozaika"
+        },
+        {
+            "src": "assets/img/styles-8.jpg",
+            "title": "Шарж",
+            "link": "#sharj"
+        }
+    ],
+    "prices": {
+        "size": {
+            "none": 0,
+            "40x50": 1000,
+            "50x70": 1500,
+            "70x70": 2000,
+            "70x100": 2500
+        },
+        "material": {
+            "none": 0,
+            "fiber": 750,
+            "linen": 1300,
+            "coton": 1000
+        },
+        "options": {
+            "none": 0,
+            "gelCover": 300,
+            "fastCreating": 700,
+            "delivering": 300
+        }
+    }
+}
